@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Frankify: Es un framework para Node.
 
 Esta basado en express y orientado al desarrollo agil de Api Rest.
@@ -41,7 +41,3 @@ Ahora puede acceder a su servidor apuntando a un navegador la direccion http://l
 License
 
 Copyright (c) 2017 Luis Vilches. Frankify is licensed under the MIT License
-=======
-# module_frankify
-source module frankify
->>>>>>> 9192272766621dd9ae23b9494a78f4241606927b
